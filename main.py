@@ -1,13 +1,8 @@
 import pandas as pd
 import numpy as np
 import hdbscan
-import time
 from clustering_evaluation import ClusterPurity
 
-#-- compute runtime at the beginning--#
-start_time = time.time()
-
-#path=
 def hdbscan_clustering(cluster_df):
     """
     param: path of embeddings dataframe to be clustered
