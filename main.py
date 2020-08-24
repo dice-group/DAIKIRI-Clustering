@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 import hdbscan
 import time
 from clustering_evaluation import ClusterPurity
@@ -7,17 +8,15 @@ from clustering_evaluation import ClusterPurity
 start_time = time.time()
 
 #path=
-def hdbscan_clustering(path):
+def hdbscan_clustering(cluster_df):
     """
     param: path of embeddings dataframe to be clustered
     return: clustered dataframe
     """
-    cluster_df=pd.read_csv(path, index_col=0)
-    print ('Data loaded with shape', cluster_df.shape )
 
     ##-- Cluster the data using HDBSCAN --### -- Consider Hyperparameter tuning later --#
     clusterer = hdbscan.HDBSCAN(algorithm='best', alpha=1.3, approx_min_span_tree=True, metric='euclidean',
-     gen_min_span_tree=True, min_cluster_size=1000, min_samples=100, cluster_selection_method='leaf', allow_single_cluster=False).fit(cluster_input)
+     gen_min_span_tree=True, min_cluster_size=1000, min_samples=100, cluster_selection_method='leaf', allow_single_cluster=False).fit(cluster_df)
 
     #-- Save clustering results as a new column in the original dataframe --#
     cluster_df['labels_preds']=clusterer.labels_
@@ -42,12 +41,24 @@ def evaluate_ClusteringPurity(cluster_df):
     return purity_score
 
 
-
 if __name__ == "__main__":
 
-    path='' # e.g. Vectograph_Results/2020-08-08 01:00:07.899851/PYKE_50_embd.csv
-    clustered_df=hdbscan_clustering(path)
+    # -- load the clustering input --#
+    path='/home/hzahera/Documents/SVN/Vectograph-develop/Vectograph_Results/2020-07-11 14:35:17.987772/PYKE_50_embd.csv' # e.g. Vectograph_Results/2020-08-08 01:00:07.899851/PYKE_50_embd.csv
+    cluster_df=pd.read_csv(path, index_col=0)
+
+    #- In case of sampling the input data, uncomment this code 
+    cluster_df=cluster_df.sample(frac=0.3, replace=True, random_state=42)
+    
+    print ('Data loaded with shape', cluster_df.shape )
+
+    # -- Add y_true as column with random values --#
+    cluster_df['labels_true']=np.random.randint(-1, 880, cluster_df.shape[0]) # generate random cluster numbers range from -1 to total number of clusters
+
+    clustered_df=hdbscan_clustering(cluster_df)
 
     purity_score=evaluate_ClusteringPurity(clustered_df)
-    print(purity_score)
+    print('Cluster Purity Score: ', purity_score)
+
+    print ('Done..')
 
