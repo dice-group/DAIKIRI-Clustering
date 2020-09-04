@@ -81,9 +81,6 @@ if __name__ == "__main__":
     purity_score=evaluate_ClusteringPurity(cluster_preds, cluster_true)
     print('Clustering Purity Score: ', purity_score)
     
-    #-- Evaluate Cluster Validty --#
-    #- https://hdbscan.readthedocs.io/en/latest/api.html#hdbscan.validity.validity_index
-    print ('Clustering Validty Score: ',hdbscan.validity.validity_index(events_df, cluster_preds))
     
     # -- Print Cluster Distributions --#
     cluster_distriubions(clustered_df)
