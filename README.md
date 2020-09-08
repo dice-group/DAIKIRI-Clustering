@@ -4,14 +4,14 @@
 To run the clustering demo (in main.py) using hdbscan algorithm, type the following command line as follows:
 <font size="-2">
 ```python
-python3 main --input_data '/home/daikiri/DAIKIRI/src/Hamada/merged.csv' --embedding_data '/home/daikiri/DAIKIRI/src/Hamada/Vectograph_Results/2020-08-08 01:00:07.899851/PYKE_50_embd.csv'  --config param.txt
+python3 main --input_data '/home/daikiri/DAIKIRI/src/Hamada/merged.csv' --embedding_data '/home/daikiri/DAIKIRI/src/Hamada/Vectograph_Results/2020-08-08 01:00:07.899851/PYKE_50_embd.csv' --config param.txt
 ```
 </font>
 
 ### CommandLine Arguments:
-- `input_data`: Path of input data e.g. ai4bd.csv or merged.csv
-- `embedding_data`: Path of embedding data e.g.Vectograph_Results/2020-08-08 01:00:07.899851/PYKE_50_embd.csv
-- `config`: Path of config file to read hyper-parameter values. e.g. param.txt
+- `input_data`: path of input data e.g. ai4bd.csv or merged.csv 
+- `embedding_data`: path of embedding data e.g.`Vectograph_Results/2020-08-08 01:00:07.899851/PYKE_50_embd.csv`
+- `config`: path of config file to read hyper-parameter values. e.g. param.txt
 
 ### Hyperparameters:
 hyper-parameter values:
