@@ -6,38 +6,24 @@ import argparse
 
 from clustering_evaluation import ClusterPurity
 
-
-def read_hyperparameters(inputFile):
-    """
-    param: inputFile, path of input file
-    return: a dictionary of hypterparameters of HDBSCAN
-    """ 
-    hyper_param = {}
-    with open(args.config) as input_file:
-        for line in input_file:             
-            (key, val) = line.split()
-            print (key, val)
-            hyper_param[key] = val
     
-    return hyper_param
-    
-def hdbscan_clustering(cluster_df, param_dict):
+def hdbscan_clustering(cluster_df):
     """
     param: Embeddings dataframe to be clustered
     return: a clustered dataframe
     """ 
-    ##-- Cluster the data using HDBSCAN --### -- Consider Hyperparameter tuning later --#
+    ##-- Cluster the data using HDBSCAN --### 
     clusterer = hdbscan.HDBSCAN(
-        algorithm=param_dict['algorithm'], 
-        alpha=float(param_dict['alpha']), 
-        approx_min_span_tree=param_dict['approx_min_span_tree']==1, 
-        metric=param_dict['metric'],
-        gen_min_span_tree=param_dict['gen_min_span_tree']==1,
-        min_cluster_size=int(param_dict['min_cluster_size']),
-        min_samples=int(param_dict['min_samples']),
-        cluster_selection_epsilon= float(param_dict['cluster_selection_epsilon']),
-        core_dist_n_jobs=int(param_dict['core_dist_n_jobs']),
-        allow_single_cluster=param_dict['allow_single_cluster']).fit(cluster_df)
+        algorithm='best', 
+        alpha=1.3,
+        approx_min_span_tree=True,
+        metric='euclidean',
+        gen_min_span_tree=True,
+        min_cluster_size=10000,
+        min_samples=100,
+        cluster_selection_epsilon= 0.5,
+        core_dist_n_jobs=1,
+        allow_single_cluster=False).fit(cluster_df)
 
     #-- Save clustering results as a new column in the original dataframe --#
     cluster_df['cluster_preds']=clusterer.labels_
@@ -103,16 +89,16 @@ if __name__ == "__main__":
     events_df=embedding_input.loc[event_ids]    
     print ('embedding_data loaded with shape', events_df.shape )
 
-    # Read hyper-paramters from file
-    hyper_param=read_hyperparameters(args.config)    
 
     #-- Clustering using HDBSCAN --#
-    clustered_df=hdbscan_clustering(events_df, hyper_param)
+    clustered_df=hdbscan_clustering(events_df)
 
+    clustered_df.to_csv('./clustered_data.csv')
+
+    #-- Evaluate the clustering performance --#
     cluster_preds= events_df['cluster_preds'].tolist()
     cluster_true= input_df['type'].tolist()
 
-    #-- Evaluate the clustering performance --#
     purity_score=evaluate_ClusteringPurity(cluster_preds, cluster_true)
     print('Clustering Purity Score: ', purity_score)
         
