@@ -1,0 +1,8 @@
+model, accuracy, precision, recall, f1, cluster_purity
+logistic_regression, , , , , 
+k_mean, 0.0003, 0.0006, 0.001, 0.0004, 0.72216
+knn, 0.8460,  0.4108, 0.4032, 0.4008, 0.85153
+randomforest, , , , , 
+randomCluster, , , , , 
+hdbscan, 0.00009,  0.000008, 0.00152,  0.00001, 0.46439
+ngdbscan, , , , , 
