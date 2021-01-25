@@ -2,8 +2,11 @@
 
 
 <p align="center">
-  <img src="Experiments/DAIKIRI-Pipeline.png"  width="410" height="75"/>
+  <img src="Experiments/DAIKIRI-Pipeline.png"  width="500" height="100"/>
+
+  *Figure 1) Full Piple of The Proposed Approach*
 </p>
+
 
 ## Overview
 This project aims to predict entities types in knowledge graphs in unsupervised learning case (without labeled data). Our approach contains four main steps as depicted in Figure 1). 
