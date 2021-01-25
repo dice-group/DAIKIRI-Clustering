@@ -1,45 +1,45 @@
 # DAIKIRI-Clustering
 
-## Clustering Demo using HDBSCAN
-To run a demo (in main.py) using hdbscan, type the following command line as follows:
-<font size="-2">
-```python
-python3 main --input_data '/home/daikiri/DAIKIRI/src/Hamada/merged.csv' --embedding_data '/home/daikiri/DAIKIRI/src/Hamada/Vectograph_Results/2020-08-08 01:00:07.899851/PYKE_50_embd.csv'
-```
-</font>
 
-### Commandline Arguments:
-- `input_data`: path of input data e.g. ai4bd.csv or merged.csv 
-- `embedding_data`: path of embedding data e.g.`Vectograph_Results/2020-08-08 01:00:07.899851/PYKE_50_embd.csv`
+<p align="center">
+  <img src="Experiments/DAIKIRI-Pipeline.png"  width="410" height="75"/>
+</p>
 
-### Hyperparameters:
+## Overview
+This project aims to predict entities types in knowledge graphs in unsupervised learning case (without labeled data). Our approach contains four main steps as depicted in Figure 1). 
+- Data Preprocessing: generate a knowledge graph (e.g. RDF format) from tabular data. We used Vectograph libraries in this step, if the input data is not in RDF format. 
+- Knowledge Graph Embedding (KGE): learn entities and relations representations using knowledge graph embedding models. In this step, we used graphvite (https://graphvite.io/) library to train three KGEs namely, transE, rotatE and DistMult. These pre-computed emebddings are store in Dataset folder for results reproducibility.
+- Clustering Embeddings: We use a density-based clustering approach (HDSCAN) to cluster KGEs and generate embeddings clusters. 
+- Type Prediction: Finally, we identify the most frequent type in each cluster and assign (propagate) it to all entities in the same clsuter (aka. Label Propagation). 
 
-```python
-clusterer = hdbscan.HDBSCAN(algorithm='best', alpha=1.3, approx_min_span_tree=True, metric='euclidean', gen_min_span_tree=True, min_cluster_size=10000, min_samples=100, cluster_selection_epsilon= 0.5, core_dist_n_jobs=1, allow_single_cluster=False).fit(cluster_df)
-```
+--- 
+## Installation 
+Install the requirements via ```pip install -r requirements.txt```
 
-### Evaluation Metrics
-- Further, we use the `cluster_purity` as a main mertic to evaluate the clsutering performance based on `event_type`. The results can be shown in `cluster purity score`.
-- In addition, we use [`cluster_validy_index`](https://hdbscan.readthedocs.io/en/latest/api.html#hdbscan.validity.validity_index) implement in `hdbscan` to compute the density based cluster validity index for the clustering specified by labels. 
+- **Vectograph**: Please follow the instructions described in https://github.com/dice-group/Vectograph This library is required to generate KG from your input data (if it is not in KG format)
+- **Graphvite**: This library is used in step 2 to train KG and generate KG embeddigns. More information can be found here https://graphvite.io/docs/latest/install.html
+ 
+## Dataset
+We used three datasets in our experiments (two bechmark datasets for entity typing and on industrial). We describe each dataset briefly as follows: 
 
-Finally, the clustering_demo shows the clusters distributions and ratio of outliers.
+- **FB15k-237** A subset of Freebase Knowledge Graph contains 310,116 triples with 14,951 entities and 237 relations.
+- **WN18RR** A subset of WordNet with 93k triples with 40,559 entities and 11 relations.
+- **AI4BD** A balanced subset of an industrial dataset in the logistics domain with about 490,806 triples, 140,000 entities and 42 relations.
+
+The preprocessed data (pre-computed embeddings) used in our experiments can be found in the *Dataset* folder. 
+
+## Experiments and Results
+We provide our experimetns as jupyter notebooks and can be found in *Experiments* folder. 
 
 ---
-### Evaluation Results
-
+## Citation
 ```
-Data loaded with shape: (2974716, 41) 
-Number of Clusters:  3
-Clustering Purity Score:  0.9760810779919831
-Clusters Distributions: 
-outliers (-1), 4207
-cluster (0), 114947
-cluster (1), 2855562
+@inproceedings{
+  author    = {Hamada M.Zahera, Stefan Heindorf and Axel N.Ngonga},
+  title     = {W-SET: a Weakly Supervisied Approach for Entity Typing in Knowledge Graphs},
+  year      = {2021},
+}
 ```
----
-### Clustering Output
-
-The clustered data is saved into a csv file. To get each cluster samples, use: `clustered_df.groupby('cluster_preds')`
 
 ---
 ## Contact
