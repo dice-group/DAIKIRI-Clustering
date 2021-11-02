@@ -1,50 +1,27 @@
 # DAIKIRI-Clustering
 
-
-<p align="center">
-  <img src="Experiments/DAIKIRI-Pipeline.png"  width="500" height="100"/>
-
-  *Figure 1) Full Pipline of The Proposed Approach*
-</p>
-
-
 ## Overview
-This project aims to predict entity types in knowledge graphs in unsupervised learning case (without labeled data). Our approach contains four main steps as depicted in Figure 1). 
-- Data Preprocessing: generate a knowledge graph (e.g. RDF format) from tabular data. We used Vectograph libraries in this step if the input data is not in RDF format. 
-- Knowledge Graph Embedding (KGE): learn entities and relations representations using knowledge graph embedding models. In this step, we used graphvite (https://graphvite.io/) library to train three KGEs namely, transE, rotatE, and DistMult. These pre-computed embeddings are store in the Dataset folder for results reproducibility.
-- Clustering Embeddings: We use a density-based clustering approach (HDSCAN) to cluster KGEs and generate embeddings clusters. 
-- Type Prediction: Finally, we identify the most frequent type in each cluster and assign (propagate) it to all entities in the same cluster (aka. Label Propagation). 
+This repository contains the implementation of clustering approaches used for work package 3 (Semantification). 
+This project aims to semantifiy entities based on their embeddings representation in unsupervised learning cases (without labeled data). 
 
 --- 
 ## Installation 
 Install the requirements via ```pip install -r requirements.txt```
 
-- **Vectograph**: Please follow the instructions described in https://github.com/dice-group/Vectograph This library is required to generate KG from your input data (if it is not in KG format)
-- **Graphvite**: This library is used in step 2 to train KG and generate KG embeddings. More information can be found here https://graphvite.io/docs/latest/install.html
+or manually using: 
+* ```pip install -U scikit-learn```
+* ```pip install hdbscan```
+
  
-## Dataset
-We used three datasets in our experiments (two benchmark datasets for entity typing and on industrial). We describe each dataset briefly as follows: 
+## Data: 
 
-- **FB15k-237** A subset of Freebase Knowledge Graph contains 310,116 triples with 14,951 entities and 237 relations.
-- **WN18RR** A subset of WordNet with 93k triples with 40,559 entities and 11 relations.
-- **AI4BD** A balanced subset of an industrial dataset in the logistics domain with about 490,806 triples, 140,000 entities, and 42 relations.
+### *Input*: 
+The input file represents the embedding representation of data (in CSV format) that was computed in the previous work package 2 (Embeddings), the file is loaded from input folder `data`.
 
-The preprocessed data (pre-computed embeddings) used in our experiments can be found in the *Dataset* folder. 
+### *Output*:
 
-## Experiments and Results
-We provide our experiments as Jupyter notebooks and can be found in *Experiments* folder. 
-
----
-## Citation
-```
-@inproceedings{
-  author    = {Hamada M.Zahera, Stefan Heindorf and Axel N.Ngonga},
-  title     = {W-SET: a Weakly Supervisied Approach for Entity Typing in Knowledge Graphs},
-  year      = {2021},
-}
-```
+The output file is a CSV format, which contains the results of clustering (entity, cluster_ID), located into the generated folder 'output' 
 
 ---
 ## Contact
-
-If you have any further questions/suggestions, please contact `hamada.zahera@upb.de`
+If you have any further questions or suggestions, please feel free to contact `hamada.zahera@upb.de`

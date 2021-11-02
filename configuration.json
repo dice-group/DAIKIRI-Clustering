@@ -1,0 +1,12 @@
+{
+    "alpha" : 0.1,
+    "metric" : "precomputed",
+    "cluster_selection_method": "leaf", 
+    "min_samples": 10, 
+    "min_cluster_size": 700,
+    "allow_single_cluster": true, 
+    "cluster_selection_epsilon": 0.9, 
+
+    "n_clusters": 3
+    
+}
