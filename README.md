@@ -12,7 +12,19 @@ or manually using:
 * ```pip install -U scikit-learn```
 * ```pip install hdbscan```
 
- 
+## How to run:
+
+CommandLines: 
+
+```cd src```
+
+```python3 semantification.py --embedding_file="../data/QMult_entity_embeddings.csv" --model="hdbscan" --config_Path="../configuration.json" --output_Path="output"``` 
+
+Parameters: 
+* ```--embedding_file```: path of input file (csv format) contains the embeddings representation of data
+* ```--model```: specify the clustering model: hdbscan, kmeans or agglomerative
+* ```--config_Path```: path of configuration file
+* ```--output_Path```: path of output file, clustering results
 ## Data: 
 
 ### *Input*: 
