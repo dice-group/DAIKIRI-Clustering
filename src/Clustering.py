@@ -61,7 +61,7 @@ class Centroid_Clustering:
     def __init__(self, data, config, output_path):
         
         self.data=data
-        kmeans = KMeans(n_clusters=config['n_clusters'] ).fit(self.data)
+        self.kmeans = KMeans(n_clusters=config['n_clusters'] ).fit(self.data)
 
         self.Kmeans_clusters= self.kmeans.predict(self.data)
         self.save_Output(path=output_path)
