@@ -1,11 +1,5 @@
-<<<<<<< HEAD
 numpy
 pandas
 scikit-learn
 matplotlib
-=======
-numpy
-pandas
-scikit-learn
-matplotlib
->>>>>>> d8fc4f3aea98d744594fe755c2dbe190345eb6f8
+hdbscan

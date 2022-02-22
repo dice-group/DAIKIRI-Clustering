@@ -1,0 +1,2966 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://www.example.org/lymphography#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.org/people/d7utst">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>drop-like</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/kcihhq">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/8ef3fk">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>drop-like</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/8w4xac">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>grainy</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/r3zr1u">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>grainy</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/eyvn8r">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/d4p9zi">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/9vtwzy">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>grainy</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/3104j6">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>drop-like</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/mtigwr">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/ndcl7m">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/6c3pas">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>grainy</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/fmmv13">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/d57nn3">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/ldtxrt">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/4xfvpb">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/x87wkc">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>yes</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>yes</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/p1l2o9">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/s70gjk">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>grainy</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/u14mox">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/431kz1">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/zvowjx">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/pwl2l8">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/wil3t8">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>yes</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/xt2trn">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/pnxi3u">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>bean</ns1:changesInLym>
+    <ns1:defectInNode>no</ns1:defectInNode>
+    <ns1:changesInNode>no</ns1:changesInNode>
+    <ns1:changesInstru>drop-like</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/qqup1e">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/7v9z5i">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>stripped</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/lpmjtm">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>drop-like</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/4hutyt">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>no</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/zj2mdb">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>yes</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/kvxujq">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/bf28z5">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>grainy</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/z9cqob">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/nle04f">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>stripped</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/ac5sr7">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/tqcv33">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>drop-like</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/vjb7qf">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/kfl36r">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/zwlxct">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/apepur">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/q1hdp8">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/u65736">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/dex47r">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/2l4a3q">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/m1o7gm">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>drop-like</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/jvz69o">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/vqhgpr">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/f5wcxd">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/i5a4rb">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>grainy</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/9shta1">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>grainy</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/udgszd">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>yes</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/jdcxvz">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/ggsk40">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/0jy2x0">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/52a1bv">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>stripped</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/5fywjn">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/6n456m">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/rp2qof">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/istkca">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/ap3d87">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/yacde1">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>grainy</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/u11t9k">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/cada59">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/x3cz2h">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/xi0aej">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>yes</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>yes</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/h98sw2">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>drop-like</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/ueb1aq">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>drop-like</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/1xtbt3">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>drop-like</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/p5ewis">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/i7jm5o">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>yes</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>stripped</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/nfqjq7">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/a3kveh">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/jk8lbd">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>yes</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>yes</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>bean</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/pxr0t2">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>drop-like</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/xql5ex">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>normal</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>no</ns1:defectInNode>
+    <ns1:changesInNode>no</ns1:changesInNode>
+    <ns1:changesInstru>grainy</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/l4s4zf">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/c397l4">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/ctqfsh">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/n4mka4">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/e3gpc3">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/2szhp9">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/mt6vm5">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/sozm8t">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/fi0t5v">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>yes</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/t67n6u">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/11z1wl">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/co8cfw">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/iq1g4d">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>yes</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>bean</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>no</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/5siybx">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/enk0zg">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>yes</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/x7d6sl">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/r0srju">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/jrzqgp">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/8mx74f">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/b3zdi0">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/a3lg4e">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/8xfiqk">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>grainy</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/2e25rv">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/c7vuk5">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/cc3orn">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/r5dbcf">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/37nsjk">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/7z4zzq">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>drop-like</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/t9agez">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>stripped</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/8eii6v">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/b6qdr5">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/iqwa22">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/9wm6jn">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>drop-like</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/jlzu80">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>drop-like</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/q4ah74">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>grainy</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/qi0spe">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/l3rnyp">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/e9r86z">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/r6nxpl">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/rvxn3j">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>grainy</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/qlggwo">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>yes</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>yes</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>stripped</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/rs5xyx">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>no</ns1:changesInNode>
+    <ns1:changesInstru>stripped</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/09ey1n">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>reticular</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/oaqw82">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/oxq31e">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/4y18vf">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/oonz35">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>drop-like</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/4rszbo">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>no</ns1:changesInNode>
+    <ns1:changesInstru>drop-like</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/zscfz0">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/u8rp2r">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/4p1wm6">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>yes</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>bean</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/ia6ew2">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>drop-like</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/et6r37">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>grainy</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/o637cl">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>drop-like</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/0msdqp">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>bean</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>drop-like</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/4p3e6e">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/tczzfv">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/niafva">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>normal</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>bean</ns1:changesInLym>
+    <ns1:defectInNode>no</ns1:defectInNode>
+    <ns1:changesInNode>no</ns1:changesInNode>
+    <ns1:changesInstru>no</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/ldlql5">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/0se3oh">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/n415pz">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/o7iat6">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/eqv3ow">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>reticular</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/r5xlro">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/tubdv9">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/k0k17m">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/r7bpy8">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/bul981">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>faint</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/zv68br">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. marginal</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/a0icbg">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/s95u5e">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>arched</ns1:lymphatics>
+    <ns1:blockOfLymphC>yes</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>yes</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. central</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:numOfNodes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/people/uf2jru">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>
+</rdf:RDF>
