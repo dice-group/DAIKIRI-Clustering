@@ -5,7 +5,7 @@ from sklearn.metrics.pairwise import pairwise_distances
 import hdbscan
 from sklearn.cluster import KMeans
 from sklearn.cluster import AgglomerativeClustering
-from DataLoader import DataLoader
+from data_loader import DataLoader
 
 import os
 
@@ -19,8 +19,7 @@ import os
 
 
 
-class Clustering_model: 
-    
+class Model: 
     def __init__(self, model, data, config, output_path):
         
         if model=="hdbscan": 
@@ -51,7 +50,9 @@ class Density_Clustering:
             os.makedirs(path)
                         
         df_tmp = pd.DataFrame({'clusters_id': self.hdbscan_clusters}, index=self.data.index)
-        df_tmp.to_csv(path+"/hdbscan_Clusters.csv")
+        df_tmp.index.name='entity-ID'
+        df_tmp['clusters_id']= df_tmp['clusters_id'].apply(lambda x: "cluster_"+str(x))
+        df_tmp.to_csv(path+"/hdbscan_Clusters.csv", header=True)
 
         return df_tmp
 
@@ -71,6 +72,8 @@ class Centroid_Clustering:
             os.makedirs("output")
 
         df_tmp = pd.DataFrame({'clusters_id': self.Kmeans_clusters}, index=self.data.index)
+        df_tmp.index.name='entity-ID'
+        df_tmp['clusters_id']= df_tmp['clusters_id'].apply(lambda x: "cluster_"+str(x))        
         df_tmp.to_csv(path+"/kmeans_Clusters.csv")
         
         return df_tmp
@@ -89,6 +92,8 @@ class Agglomerative_Clustering:
             os.makedirs("output")
 
         df_tmp = pd.DataFrame({'clusters_id': self.agg_Clusters}, index=self.data.index)
+        df_tmp.index.name='entity-ID'
+        df_tmp['clusters_id']= df_tmp['clusters_id'].apply(lambda x: "cluster_"+str(x))
         df_tmp.to_csv(path+"/agglo_Clusters.csv")
         
         return df_tmp

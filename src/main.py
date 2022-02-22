@@ -1,5 +1,5 @@
-from DataLoader import DataLoader
-from Clustering import Clustering_model
+from data_loader import DataLoader
+from clustering_models import Model
 
 import argparse
   
@@ -20,9 +20,8 @@ def main():
     config= loader.get_Configuration()
 
     #2) Data Clustering
-    clusters=Clustering_model(model=args.model, data=loader.data_df, config= config, output_path=args.output_Path)
+    clusters=Model(model=args.model, data=loader.data_df, config= config, output_path=args.output_Path)
 
-    #3) Labeling
 
     
 

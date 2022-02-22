@@ -1,0 +1,80 @@
+cluster-1,<rdf:Description rdf:about="http://example.org/people/r6nxpl">
+    <ns1:exclusionOfNo>yes</ns1:exclusionOfNo>
+    <ns1:dislocationOf>yes</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>no</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>lac. central</ns1:defectInNode>
+    <ns1:changesInNode>lacunar</ns1:changesInNode>
+    <ns1:changesInstru>coarse</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:numOfNodes>
+  </rdf:Description>, $
+  cluster-2,"<rdf:Description rdf:about="http://example.org/people/bf28z5">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>displaced</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>yes</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>round</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>lac. margin</ns1:changesInNode>
+    <ns1:changesInstru>grainy</ns1:changesInstru>
+    <ns1:specialForms>chalices</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:numOfNodes>
+  </rdf:Description>, $
+  cluster-3,"<rdf:Description rdf:about="http://example.org/people/iq1g4d">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>deformed</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>yes</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>yes</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>no</ns1:earlyUptakeIn>
+    <ns1:changesInLym>bean</ns1:changesInLym>
+    <ns1:defectInNode>lacunar</ns1:defectInNode>
+    <ns1:changesInNode>no</ns1:changesInNode>
+    <ns1:changesInstru>diluted</ns1:changesInstru>
+    <ns1:specialForms>vesicles</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:numOfNodes>
+  </rdf:Description>, $
+  cluster-4,"<rdf:Description rdf:about="http://example.org/people/xql5ex">
+    <ns1:exclusionOfNo>no</ns1:exclusionOfNo>
+    <ns1:dislocationOf>no</ns1:dislocationOf>
+    <ns1:lymphatics>normal</ns1:lymphatics>
+    <ns1:blockOfLymphC>no</ns1:blockOfLymphC>
+    <ns1:blockOfAffere>no</ns1:blockOfAffere>
+    <ns1:BlockOfLymphS>no</ns1:BlockOfLymphS>
+    <ns1:ByPass>no</ns1:ByPass>
+    <ns1:extravasates>yes</ns1:extravasates>
+    <ns1:regenerationOF>no</ns1:regenerationOF>
+    <ns1:earlyUptakeIn>yes</ns1:earlyUptakeIn>
+    <ns1:changesInLym>oval</ns1:changesInLym>
+    <ns1:defectInNode>no</ns1:defectInNode>
+    <ns1:changesInNode>no</ns1:changesInNode>
+    <ns1:changesInstru>grainy</ns1:changesInstru>
+    <ns1:specialForms>no</ns1:specialForms>
+    <ns1:lymNodesEnlar rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:lymNodesEnlar>
+    <ns1:lymNodesdimin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:lymNodesdimin>
+    <ns1:numOfNodes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:numOfNodes>
+  </rdf:Description>,$
