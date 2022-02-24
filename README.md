@@ -18,7 +18,7 @@ CommandLines:
 
 ```cd src```
 
-```python3 semantification.py --embedding_file="../data/QMult_entity_embeddings.csv" --model="hdbscan" --config_Path="../configuration.json" --output_Path="output"``` 
+```python3 main.py --embedding_file="../data/QMult_entity_embeddings.csv" --model="hdbscan" --config_Path="../configuration.json" --output_Path="output"``` 
 
 Parameters: 
 * ```--embedding_file```: path of input file (csv format) contains the embeddings representation of data
